@@ -5,6 +5,9 @@ Hi, this repo is created for recording my Frontend learning routine and I'm shar
 
 Hopefully this guide can be comprehensive enough to be the one and only guide need for frontend developers.
 
+Feel free to visit my Dev.to blog if you wish to have a better reading experience.
+[Click here to Dev.to](https://dev.to/weifengnusceg)
+
 
 ## React Concepts
 * [React Concept Part.1](React-Concept-Part1.md)
